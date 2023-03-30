@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-recreating a board game, making simple games, making an app, making a website, or making a quiz.
+Recreating a board game, making simple games, making an app, making a website, or making a quiz.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
